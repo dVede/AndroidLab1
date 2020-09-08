@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="lab1">Lab1</string>
+    <string name="image">Image</string>
+    <string name="laugh">heheheheh</string>
+    <string name="button">Button</string>
+    <string name="linearlayout">LinearLayout</string>
+    <string name="constraintlayout">ConstraintLayout</string>
+</resources>
